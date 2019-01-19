@@ -1,2 +1,2 @@
-# My practie notes on data manipulation
+# My practice notes on data manipulation
 
